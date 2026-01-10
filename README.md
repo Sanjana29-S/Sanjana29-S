@@ -45,8 +45,8 @@ Turning raw data into actionable insights & dashboards that drive business decis
 ---
 
 ### 📫 Let's Connect
-- 💼 LinkedIn: (https://www.linkedin.com/in/sanjana-singh-044591212/)
-- 📧 Email: singh29sanjana@gmail.com
+- 💼 ![LinkedIn](https://www.linkedin.com/in/sanjana-singh-044591212/)
+- 📧 [!Email]singh29sanjana@gmail.com
 
 <!--
 - 🔭 I’m currently working on ...
