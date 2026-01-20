@@ -12,10 +12,6 @@ Turning raw data into actionable insights & dashboards that drive business decis
 - 🛠 Currently building real-world projects using SQL, Power BI & Tableau  
 
 ---
-
-### 🧰 Tech Stack & Tools
-
----
 ## 🧰 Tech Stack & Tools
 
 ### 🔹 Languages & Querying
@@ -47,7 +43,7 @@ Turning raw data into actionable insights & dashboards that drive business decis
 ### 📌 Featured Projects
 - 🏠 **Airbnb Tableau Dashboard** – Location & pricing insights for investors  
 - 🏗 **SQL Data Warehouse Project** – ETL, star schema & analytics views  
-- 📊 **Power BI Dashboards** – Business KPIs & performance tracking  
+- 📊 **Power BI Data Jobs Dashboards** – Business KPIs & performance tracking  
 
 ---
 
